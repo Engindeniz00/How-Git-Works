@@ -14,7 +14,7 @@ It is the easiest way to find target brach location from master branch. It just 
 > Here is chart example of forward merge. (Branch names : 'SD' and 'auth')
 > 
 
-![Untitled](Merge%20Types%2043dbb8d171424fe0979b25ec4b258d56/Untitled.png)
+![Untitled](Source/Merge%20Types%2043dbb8d171424fe0979b25ec4b258d56/Untitled.png)
 
 # 3 Way Merge
 
@@ -22,7 +22,7 @@ Usually we faced with this situation when merging another branch if it is not th
 
 - **First looks at base commit where two branches started from**
 
-![Untitled](Merge%20Types%2043dbb8d171424fe0979b25ec4b258d56/Untitled%201.png)
+![Untitled](Source/Merge%20Types%2043dbb8d171424fe0979b25ec4b258d56/Untitled%201.png)
 
 - **Then last commit of each branch**
 
@@ -30,6 +30,6 @@ Usually we faced with this situation when merging another branch if it is not th
 
 - **Finally merge successfully auth to master branch with SD branch.**
 
-![Untitled](Merge%20Types%2043dbb8d171424fe0979b25ec4b258d56/Untitled%203.png)
+![Untitled](Source/Merge%20Types%2043dbb8d171424fe0979b25ec4b258d56/Untitled%203.png)
 
 []()
