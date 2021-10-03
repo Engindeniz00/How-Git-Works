@@ -6,7 +6,7 @@ There is a source code and code need to some development on it. So jack and jann
 
 # Here is a chart explanation of git projects
 
-![Untitled](How%20Git%20works%2099dcc4a137eb4249b71aff12422f2803/Untitled.png)
+![Untitled](Source/How%20Git%20works%2099dcc4a137eb4249b71aff12422f2803/Untitled.png)
 
 I hope it would be more clear on your mind.
 
@@ -69,7 +69,7 @@ file1.txt  file2.txt
 
 - First we are creating a track system that can detect all changes in our project files on local. And we call that local enviroment as 'Working Tree' where our projet located on our local pc.
 
-![Untitled](How%20Git%20works%2099dcc4a137eb4249b71aff12422f2803/Untitled%201.png)
+![Untitled](Source/How%20Git%20works%2099dcc4a137eb4249b71aff12422f2803/Untitled%201.png)
 
 - We can see the status of files as untracked by using this code
 
@@ -114,4 +114,4 @@ $ git add .
     
 - If we want the symbolize the moment we can just explain it like that
 
-![Untitled](How%20Git%20works%2099dcc4a137eb4249b71aff12422f2803/Untitled%202.png)
+![Untitled](Source/How%20Git%20works%2099dcc4a137eb4249b71aff12422f2803/Untitled%202.png)
